@@ -60,8 +60,8 @@ def parse_specific_head(file_path, output_excel_path, target_section="§ 135.1 A
 # Main function to execute the script
 def main():
     # File paths
-    xml_file_path = "title-14.xml"  # Replace with your XML file path
-    output_excel_path = "output_table.xlsx"    # Replace with your desired output file path
+    xml_file_path = "data/title-14.xml"  # Replace with your XML file path
+    output_excel_path = "outputs/output_table.xlsx"    # Replace with your desired output file path
 
     # Target section to extract
     target_section = "§ 135.1 Applicability."
