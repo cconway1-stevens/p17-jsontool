@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/workspaces/p17-jsontool/myenv"
+set -gx VIRTUAL_ENV "/Users/cameronconway/Downloads/p17 code/p17-jsontool/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
